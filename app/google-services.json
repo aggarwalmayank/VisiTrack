@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784043168090",
+    "firebase_url": "https://visitrack-7ef08.firebaseio.com",
+    "project_id": "visitrack-7ef08",
+    "storage_bucket": "visitrack-7ef08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784043168090:android:e3ed65fb0259311624a363",
+        "android_client_info": {
+          "package_name": "com.appsaga.visitrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784043168090-08k4f12pt6c7q9235386uvuh6jjdho15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsaga.visitrack",
+            "certificate_hash": "0442fc66fc11b103c55f5047820bd13866f0cae0"
+          }
+        },
+        {
+          "client_id": "784043168090-9gbkdgji4dfs91g2kt9ae15a1vrr3q4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAAOuaFZpgxfcMt9RujQBJMVfqQsVaWzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784043168090-9gbkdgji4dfs91g2kt9ae15a1vrr3q4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
