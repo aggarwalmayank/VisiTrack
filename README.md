@@ -1,7 +1,9 @@
 # VisiTrack
 # A Visitor Management Android Application for Innovaccer SummerGeeks
+
 ![icon](https://user-images.githubusercontent.com/32715597/69666249-f68e5400-10b1-11ea-85ee-bb00a9d40f9f.jpg)
-###Problem Statement
+
+### Problem Statement
 ###### Given the visitors that we have in office and outside, there is a need to for an entry management software.
 
 #### Technology Stack
@@ -34,41 +36,45 @@ I have given name to the applicaton as VistTrack you can find its apk named visi
 
 - An email to the visitor will ben send with all necessary details
 
-###Database Structure
+### Database Structure
 
-
-        VisiTrack
-        	|__Visitor
-        			|__token
-        					|__Name
-    						|__Phone
-    						|__Email
-    						|__HostName
-    						|__HostPhone
-    						|__HostEmail
-    						|__CheckIn
-    						|__CheckOut
-    						|__TimeStamp
-
-        	|__Host
-    				|__Host ID
-    						|__Name
-    						|__Email
-    						|__Phone
-
+```
+VisiTrack
+   |__Visitor
+        |__token
+		|__Name
+  		|__Phone
+    		|__Email
+   		|__HostName
+    		|__HostPhone
+    		|__HostEmail
+    		|__CheckIn
+    		|__CheckOut
+ 		|__TimeStamp
+  |__Host
+     |__Host ID
+    	|__Name
+	|__Email
+  	|__Phone
+```
 ######Note 1: Enter valid emails for testing throughout, otherwise you will not see emails being sent.
 
 ######Note 2: You can change the testing email (only gmail account for another we have to change configuration in code) which sends mail automatically in Config.java . Make sure to enable less secure apps to be able to send emails.
 
 
-##Screenshots
+## Screenshots
 
-####Main Page (Check-in and Check-out)
+#### Main Page (Check-in and Check-out)
+
 ![fdspeg](https://user-images.githubusercontent.com/32715597/69669452-e5484600-10b7-11ea-9e13-adb7f3e6b6d5.jpeg)
 
-####Select Host Page
+
+#### Select Host Page
+
 ![WhatsApp Image 2019-11-27 at 1 45 13 AM](https://user-images.githubusercontent.com/32715597/69669500-001aba80-10b8-11ea-8e52-142860704bd6.jpeg)
 
-####Add Host Page
+
+#### Add Host Page
+
 ![WhatsApp Image 2019-11-27 at 1 45 18 AM](https://user-images.githubusercontent.com/32715597/69669508-0315ab00-10b8-11ea-80c2-d68f010c8cf1.jpeg)
 
