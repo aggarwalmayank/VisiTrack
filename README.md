@@ -57,9 +57,9 @@ VisiTrack
 	|__Email
   	|__Phone
 ```
-######Note 1: Enter valid emails for testing throughout, otherwise you will not see emails being sent.
+###### Note 1: Enter valid emails for testing throughout, otherwise you will not see emails being sent.
 
-######Note 2: You can change the testing email (only gmail account for another we have to change configuration in code) which sends mail automatically in Config.java . Make sure to enable less secure apps to be able to send emails.
+###### Note 2: You can change the testing email (only gmail account for another we have to change configuration in code) which sends mail automatically in Config.java . Make sure to enable less secure apps to be able to send emails.
 
 
 ## Screenshots
